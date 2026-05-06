@@ -1,0 +1,676 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>María Jesús Montero · Análisis de Publicidad Política</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;600;800;900&family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,700;0,9..144,900;1,9..144,400&family=Inter+Tight:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- HUD -->
+<aside class="hud">
+  <div class="hud-brand">
+    <span class="brand-mark">MJM<span class="brand-dot">·</span>26</span>
+    <span class="brand-meta">PUBLICIDAD POLÍTICA · CURSO 2025–2026</span>
+  </div>
+  <div class="hud-progress">
+    <span class="hud-counter"><span id="slideNow">01</span><span class="hud-sep">/</span><span id="slideTotal">17</span></span>
+    <div class="hud-bar"><div class="hud-bar-fill" id="hudBarFill"></div></div>
+  </div>
+  <div class="hud-keys">
+    <kbd>←</kbd><kbd>→</kbd> <span class="hud-keys-text">navegar</span>
+    <kbd>F</kbd> <span class="hud-keys-text">pantalla completa</span>
+  </div>
+</aside>
+
+<!-- DECK -->
+<main class="deck" id="deck">
+
+  <!-- ========== SLIDE 01 — PORTADA ========== -->
+  <section class="slide slide-cover" data-slide="1">
+    <div class="cover-grid">
+      <div class="cover-left">
+        <div class="cover-top">
+          <div class="overline">PUBLICIDAD POLÍTICA · CURSO 2025–2026</div>
+          <div class="cover-date">Exposición 7 mayo · Entrega 15 mayo</div>
+        </div>
+
+        <div class="cover-headline">
+          <h1>
+            <span class="word w1">María</span>
+            <span class="word w2">Jesús</span>
+            <span class="word w3 accent">Montero</span>
+          </h1>
+          <div class="kicker">
+            Candidata del PSOE a la presidencia de la Junta de Andalucía.
+            Análisis de campaña con vistas a las elecciones autonómicas<span class="kicker-strong"> del 17 de mayo de 2026</span>.
+          </div>
+        </div>
+
+        <div class="cover-team">
+          <div class="team-label">Equipo</div>
+          <ul class="team-list">
+            <li>M.ª Socorro Rodríguez Hernández</li>
+            <li>Lucas Gorodneff</li>
+            <li>Karelyn Salvador</li>
+            <li>Alice Portes</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="cover-right">
+        <img src="img/montero_oficial_2023.jpg" alt="Retrato oficial de María Jesús Montero" />
+        <div class="cover-photo-caption">Retrato institucional · Pool Moncloa · 2023</div>
+      </div>
+
+      <div class="cover-bigtype" aria-hidden="true">
+        DEFIENDE<br>LO PÚBLICO
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 02 — ÍNDICE ========== -->
+  <section class="slide slide-index" data-slide="2">
+    <div class="slide-inner">
+      <header class="slide-head">
+        <div class="slide-number">02</div>
+        <div class="slide-section">ÍNDICE</div>
+      </header>
+      <h2 class="slide-title">Estructura del trabajo</h2>
+
+      <ol class="toc">
+        <li><span class="toc-num">01</span><span class="toc-text">Partido y candidato</span><span class="toc-pages">slides 03–05</span></li>
+        <li><span class="toc-num">02</span><span class="toc-text">Campaña: contexto y previsiones basadas en datos</span><span class="toc-pages">slides 06–09</span></li>
+        <li><span class="toc-num">03</span><span class="toc-text">Concepto de campaña y estrategia de comunicación</span><span class="toc-pages">slide 10</span></li>
+        <li><span class="toc-num">04</span><span class="toc-text">Objetivos de campaña</span><span class="toc-pages">slide 11</span></li>
+        <li><span class="toc-num">05</span><span class="toc-text">Público objetivo</span><span class="toc-pages">slide 12</span></li>
+        <li><span class="toc-num">06</span><span class="toc-text">Identidad visual del partido</span><span class="toc-pages">slide 13</span></li>
+        <li><span class="toc-num">07</span><span class="toc-text">Propuestas de mejora · cartel electoral · publicidad para RRSS</span><span class="toc-pages">slides 14–16</span></li>
+        <li><span class="toc-num">08</span><span class="toc-text">Referencias</span><span class="toc-pages">slide 17</span></li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 03 — CONTEXTUALIZACIÓN ========== -->
+  <section class="slide slide-bio" data-slide="3">
+    <div class="bio-grid">
+      <div class="bio-photo">
+        <img src="img/montero_oficial_2020.jpg" alt="María Jesús Montero" />
+      </div>
+      <div class="bio-content">
+        <header class="slide-head">
+          <div class="slide-number">03</div>
+          <div class="slide-section">§1 · PARTIDO Y CANDIDATO · CONTEXTUALIZACIÓN</div>
+        </header>
+        <h2 class="slide-title">Partido y candidato<br>con el que se va a trabajar.</h2>
+        <p class="lede">
+          Andalucía es una comunidad autónoma históricamente vinculada al PSOE, pero gobernada
+          en la actualidad por el PP bajo la presidencia de <strong>Juan Manuel Moreno Bonilla</strong>
+          desde 2019, hoy en mayoría absoluta. Moreno es el principal rival político de la candidata.
+        </p>
+        <p>
+          Aunque el bipartidismo haya perdido peso por la aparición de nuevas formaciones, el PP
+          consolida su base electoral en el Parlamento andaluz. Montero, figura ya consolidada en
+          el ámbito estatal, afronta un reto que requiere una estrategia sólida para que el PSOE
+          recupere el gobierno autonómico tras varios años en la oposición.
+        </p>
+
+        <div class="bio-stats">
+          <div class="stat">
+            <div class="stat-num">2018</div>
+            <div class="stat-label">Pérdida del gobierno autonómico</div>
+          </div>
+          <div class="stat">
+            <div class="stat-num">2019</div>
+            <div class="stat-label">Moreno (PP) presidente</div>
+          </div>
+          <div class="stat">
+            <div class="stat-num">2022</div>
+            <div class="stat-label">Mayoría absoluta del PP-A</div>
+          </div>
+          <div class="stat accent-stat">
+            <div class="stat-num">17·05·26</div>
+            <div class="stat-label">Próximas elecciones autonómicas</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 04 — PERFIL BIBLIOGRÁFICO ========== -->
+  <section class="slide slide-why" data-slide="4">
+    <div class="slide-inner">
+      <header class="slide-head">
+        <div class="slide-number">04</div>
+        <div class="slide-section">§1 · PARTIDO Y CANDIDATO · PERFIL BIBLIOGRÁFICO</div>
+      </header>
+      <h2 class="slide-title">Perfil bibliográfico<br>de la candidata.</h2>
+
+      <p class="lede" style="max-width: 90ch; margin-bottom: 18px;">
+        María Jesús Montero Cuadrado, nacida en Sevilla en 1966, licenciada en Medicina y Cirugía
+        por la Universidad de Sevilla. Su formación sanitaria marcó el punto de partida de su
+        trayectoria profesional en el sector público.
+      </p>
+
+      <div class="why-grid">
+        <article class="why-card">
+          <div class="why-num">FORMACIÓN Y PRIMEROS PASOS</div>
+          <h3>Gestión hospitalaria en Sevilla</h3>
+          <p>En 1995 fue subdirectora del Hospital Universitario Virgen de Valme hasta 1998. Ese mismo año pasa a ser subdirectora y, posteriormente, directora gerente del Hospital Universitario Virgen del Rocío.</p>
+        </article>
+
+        <article class="why-card">
+          <div class="why-num">ETAPA AUTONÓMICA</div>
+          <h3>Consejería de Salud y Hacienda andaluzas</h3>
+          <p>Salto a la Consejería de Salud de la Junta de Andalucía con Griñán y Susana Díaz, después a la Consejería de Hacienda autonómica. Acumula experiencia ejecutiva en gestión sanitaria y presupuestaria.</p>
+        </article>
+
+        <article class="why-card">
+          <div class="why-num">ETAPA EN EL GOBIERNO CENTRAL</div>
+          <h3>Ministra de Hacienda · Vicepresidenta primera</h3>
+          <p>Ministra de Hacienda desde 2018 con Pedro Sánchez. Vicepresidenta primera del Gobierno de España desde 2023. Mano derecha del presidente en la negociación presupuestaria.</p>
+        </article>
+
+        <article class="why-card">
+          <div class="why-num">CANDIDATURA AUTONÓMICA</div>
+          <h3>Secretaria general del PSOE-A · candidata 2026</h3>
+          <p>Desde noviembre de 2024, secretaria general del PSOE de Andalucía. Candidata oficial a la presidencia de la Junta para las elecciones del 17 de mayo de 2026. Rival principal: Juan Manuel Moreno Bonilla (PP).</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 05 — JUSTIFICACIÓN DE LA ELECCIÓN ========== -->
+  <section class="slide slide-context" data-slide="5">
+    <div class="context-grid">
+      <div class="context-text">
+        <header class="slide-head">
+          <div class="slide-number">05</div>
+          <div class="slide-section">§1 · PARTIDO Y CANDIDATO · JUSTIFICACIÓN</div>
+        </header>
+        <h2 class="slide-title">Justificación de la elección.</h2>
+        <p class="lede">
+          Se escoge a María Jesús Montero por su <strong>alto interés como figura política</strong> en el contexto
+          de las elecciones autonómicas andaluzas del 17 de mayo de 2026. Tras décadas de mandato socialista
+          en la región, en 2019 se impuso Juan Manuel Moreno Bonilla, hoy en mayoría absoluta.
+        </p>
+        <p>
+          Montero deja atrás su presencia activa como mano derecha de Sánchez para volcarse en su candidatura.
+          El PSOE-A opta por una <strong>campaña en defensa de los servicios públicos</strong>, tomando como ventaja la formación
+          académica y profesional de la candidata: licenciada en Medicina y gerente de hospitales públicos como
+          Valme y Virgen del Rocío.
+        </p>
+      </div>
+      <aside class="context-rail">
+        <div class="rail-card">
+          <div class="rail-overline">PUNTOS FUERTES DECLARADOS</div>
+          <ul class="timeline">
+            <li><span class="t-year">Mujer</span><span class="t-event">Liderazgo femenino frente a un PP-A muy masculinizado.</span></li>
+            <li><span class="t-year">Médica</span><span class="t-event">Formación clínica y experiencia en gerencia hospitalaria pública.</span></li>
+            <li class="now"><span class="t-year">Cribados</span><span class="t-event">Crisis sanitaria de octubre 2025: más de 2 000 mujeres no notificadas tras cribado de cáncer de mama.</span></li>
+            <li><span class="t-year">Gestión</span><span class="t-event">Trayectoria como consejera autonómica y ministra de Hacienda.</span></li>
+            <li class="future"><span class="t-year">Proyecto</span><span class="t-event">Eje «defiende lo público» como eje estratégico.</span></li>
+          </ul>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 06 — RESULTADOS 2022 ========== -->
+  <section class="slide slide-data" data-slide="6">
+    <div class="slide-inner">
+      <header class="slide-head">
+        <div class="slide-number">06</div>
+        <div class="slide-section">§2 · CAMPAÑA · DATOS DE LA ÚLTIMA CAMPAÑA</div>
+      </header>
+      <h2 class="slide-title">Punto de partida:<br>elecciones del 19 de junio de 2022.</h2>
+
+      <div class="data-grid">
+        <div class="bars">
+          <div class="bar-row" style="--w:43.12%"><span class="bar-label">PP-A</span><span class="bar bar-pp"></span><span class="bar-val">43,12% · 58 escaños</span></div>
+          <div class="bar-row" style="--w:24.10%"><span class="bar-label">PSOE-A</span><span class="bar bar-psoe"></span><span class="bar-val">24,09% · 30 escaños</span></div>
+          <div class="bar-row" style="--w:13.46%"><span class="bar-label">VOX</span><span class="bar bar-vox"></span><span class="bar-val">13,46% · 14 escaños</span></div>
+          <div class="bar-row" style="--w:7.68%"><span class="bar-label">Por Andalucía</span><span class="bar bar-pa"></span><span class="bar-val">7,68% · 5 escaños</span></div>
+          <div class="bar-row" style="--w:4.58%"><span class="bar-label">Adelante</span><span class="bar bar-aa"></span><span class="bar-val">4,58% · 2 escaños</span></div>
+          <div class="bar-row" style="--w:3.29%"><span class="bar-label">Cs</span><span class="bar bar-cs"></span><span class="bar-val">3,29% · 0 escaños</span></div>
+        </div>
+        <aside class="data-side">
+          <p class="data-headline">Participación del <strong>58,49%</strong> sobre 6 378 636 electores. PSOE-A: <strong>883 707 votos</strong>.</p>
+          <p>La debacle se explicó por la concentración del voto de centroderecha en el PP tras la desaparición de Ciudadanos —que perdió 540 501 votos y sus 21 escaños— y por la desmovilización del electorado de izquierdas.</p>
+          <p class="data-source">Fuente: Resultados oficiales del Parlamento de Andalucía · CIS estudios 3365 (preelectoral), 3367 (flash) y 3370 (postelectoral) de 2022.</p>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 07 — CIS 3558 PREELECTORAL 2026 ========== -->
+  <section class="slide slide-poll" data-slide="7">
+    <div class="slide-inner">
+      <header class="slide-head">
+        <div class="slide-number">07</div>
+        <div class="slide-section">§2 · CAMPAÑA · PREVISIONES BASADAS EN DATOS</div>
+      </header>
+      <h2 class="slide-title">Preelectoral CIS 3558 · 24 de abril de 2026.</h2>
+
+      <div class="poll-grid">
+        <div class="poll-num poll-pp">
+          <div class="big-pct">43,6<span>%</span></div>
+          <div class="big-label">PP-A</div>
+          <div class="big-detail">51–59 escaños estimados</div>
+        </div>
+        <div class="poll-num poll-psoe">
+          <div class="big-pct">25,8<span>%</span></div>
+          <div class="big-label">PSOE-A</div>
+          <div class="big-detail">27–34 escaños estimados</div>
+        </div>
+        <div class="poll-secondary">
+          <div class="ps-row"><span>VOX</span><span class="ps-bar" style="--w:10.3%"></span><span>10,3% · 8–17 esc.</span></div>
+          <div class="ps-row"><span>Adelante Andalucía</span><span class="ps-bar" style="--w:8.5%"></span><span>8,5%</span></div>
+          <div class="ps-row"><span>Por Andalucía</span><span class="ps-bar" style="--w:6.9%"></span><span>6,9%</span></div>
+          <div class="ps-row muted"><span>Otros / NS</span><span class="ps-bar ghost" style="--w:4.9%"></span><span>—</span></div>
+        </div>
+
+        <aside class="poll-note">
+          <h4>Ficha técnica del estudio</h4>
+          <p>Trabajo de campo entre el 10 y el 18 de abril de 2026 sobre <strong>8 017 entrevistas</strong>. Fuente institucional más reciente y exhaustiva sobre la contienda. La horquilla de 27–34 escaños del PSOE-A incluye una posible mejora respecto a los 30 actuales.</p>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 08 — ENCUESTAS PRIVADAS Y AGREGADORES ========== -->
+  <section class="slide slide-attrs" data-slide="8">
+    <div class="slide-inner">
+      <header class="slide-head">
+        <div class="slide-number">08</div>
+        <div class="slide-section">§2 · CAMPAÑA · ENCUESTAS PRIVADAS · ABRIL 2026</div>
+      </header>
+      <h2 class="slide-title">Sondeos privados<br>y agregadores recientes.</h2>
+      <p class="slide-sub">Comparativa con el preelectoral CIS 3558. Datos publicados durante abril de 2026.</p>
+
+      <table class="attr-table">
+        <thead>
+          <tr><th>Casa demoscópica</th><th>PP</th><th>PSOE</th><th class="gap">Lectura</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>CIS 3558 (institucional)</td><td>43,6%</td><td>25,8%</td><td class="gap">PSOE 27–34 esc.</td></tr>
+          <tr><td>GAD3 para ABC</td><td>44,1%</td><td>22,0%</td><td class="gap">Mayoría absoluta</td></tr>
+          <tr><td>IMOP para Henneo</td><td>42,0%</td><td>—</td><td class="gap">Posible pérdida MA</td></tr>
+          <tr><td>Sigma Dos para El Mundo</td><td>~42%</td><td>23,5%</td><td class="gap">PSOE 27–29 esc.</td></tr>
+          <tr class="row-emph"><td>Votómetro Redlines (agregador, 18 encuestas)</td><td>42,5%</td><td>22,3%</td><td class="gap">PSOE 25–28 esc.</td></tr>
+          <tr><td>Barómetro CENTRA · diciembre 2025</td><td>—</td><td>—</td><td class="gap">Sanidad 1.ª preocupación</td></tr>
+        </tbody>
+      </table>
+
+      <div class="attr-takeaway">
+        <strong>Lectura demoscópica:</strong>
+        si se cumplen las proyecciones privadas, Montero firmaría el peor resultado del PSOE-A en cuarenta años de democracia autonómica.
+        El CIS abre, en cambio, una horquilla algo más favorable. La recta final entre el 1 y el 15 de mayo decidirá entre ambos escenarios.
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 09 — VALORACIÓN DE LÍDERES ========== -->
+  <section class="slide slide-leaders" data-slide="9">
+    <div class="leaders-grid">
+      <div class="leaders-text">
+        <header class="slide-head">
+          <div class="slide-number">09</div>
+          <div class="slide-section">§2 · CAMPAÑA · VALORACIÓN DE CANDIDATOS</div>
+        </header>
+        <h2 class="slide-title">Valoración de líderes<br>y preferencia como presidente.</h2>
+        <p class="lede">Datos del preelectoral CIS 3558. Escala 1–10. La candidata socialista queda por debajo de los candidatos de Adelante Andalucía y Por Andalucía.</p>
+        <p style="margin-top:14px; font-size:14.5px; color: rgba(244,239,226,0.8);">En preferencia directa como presidente, Moreno obtiene un <strong>43,8%</strong> frente al <strong>20,7%</strong> de Montero.</p>
+      </div>
+
+      <div class="leaders-chart">
+        <div class="leader-row">
+          <div class="leader-name">Juan Manuel Moreno <span class="leader-party">PP</span></div>
+          <div class="leader-bar"><div class="leader-fill" style="width:57.8%"></div></div>
+          <div class="leader-score">5,78</div>
+        </div>
+        <div class="leader-row">
+          <div class="leader-name">José Ignacio García <span class="leader-party">Adelante</span></div>
+          <div class="leader-bar"><div class="leader-fill" style="width:47.4%"></div></div>
+          <div class="leader-score">4,74</div>
+        </div>
+        <div class="leader-row">
+          <div class="leader-name">Antonio Maíllo <span class="leader-party">Por A.</span></div>
+          <div class="leader-bar"><div class="leader-fill" style="width:46.2%"></div></div>
+          <div class="leader-score">4,62</div>
+        </div>
+        <div class="leader-row leader-row-mjm">
+          <div class="leader-name">María Jesús Montero <span class="leader-party">PSOE-A</span></div>
+          <div class="leader-bar"><div class="leader-fill leader-fill-pink" style="width:38.4%"></div></div>
+          <div class="leader-score">3,84</div>
+        </div>
+        <div class="approve-line"><span>aprobado</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 10 — CONCEPTO DE CAMPAÑA ========== -->
+  <section class="slide slide-floods" data-slide="10">
+    <div class="floods-grid">
+      <div class="floods-photo">
+        <img src="img/montero_007.jpg" alt="Mitin del PSOE-A" />
+        <div class="floods-cap">Mitin de Cártama (Málaga) · 1 de mayo de 2026 · Foto: PSOE / Flickr CC</div>
+      </div>
+      <div class="floods-text">
+        <header class="slide-head">
+          <div class="slide-number">10</div>
+          <div class="slide-section">§3 · CONCEPTO DE CAMPAÑA Y ESTRATEGIA</div>
+        </header>
+        <h2 class="slide-title">Tres ejes que conectan<br>con las preocupaciones medidas.</h2>
+        <p class="lede" style="margin-bottom: 14px;">El concepto se construye sobre tres ejes interrelacionados que dialogan con datos del CIS 3558 y del Barómetro Sanitario 2025.</p>
+
+        <div class="paradox">
+          <div class="paradox-num">67,1%</div>
+          <div class="paradox-text">señala la mejora de la sanidad pública como principal razón para votar <span>el 42,2% la sitúa como primer problema andaluz</span></div>
+        </div>
+        <div class="paradox">
+          <div class="paradox-num">47,2%</div>
+          <div class="paradox-text">la vivienda como segunda razón de voto <span>frente a la ausencia de política autonómica de vivienda asequible</span></div>
+        </div>
+        <div class="paradox paradox-bad">
+          <div class="paradox-num">70,4%</div>
+          <div class="paradox-text">los temas propios de Andalucía pesarán más que los nacionales <span>espacio para disputar al PP la apropiación visual del verde y de la palabra «Andalucía»</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 11 — OBJETIVOS DE CAMPAÑA ========== -->
+  <section class="slide slide-diag" data-slide="11">
+    <div class="slide-inner">
+      <header class="slide-head">
+        <div class="slide-number">11</div>
+        <div class="slide-section">§4 · OBJETIVOS DE CAMPAÑA</div>
+      </header>
+      <h2 class="slide-title">Cinco objetivos<br>en torno a una ambición defensiva.</h2>
+
+      <div class="diag-grid" style="grid-template-columns: repeat(3, 1fr);">
+        <article class="prob-card">
+          <div class="prob-rank">01</div>
+          <h3>Defender la 2.ª posición frente a Vox</h3>
+          <p>La amenaza inicial de sorpasso parece desactivada según los últimos sondeos, pero sigue presente en la dinámica de campaña.</p>
+        </article>
+        <article class="prob-card prob-secondary">
+          <div class="prob-rank">02</div>
+          <h3>Movilizar el progresismo abstencionista</h3>
+          <p>Cerca de <strong>600 000 personas</strong> que se abstuvieron en 2022 según el postelectoral del CIS (estudio 3370).</p>
+        </article>
+        <article class="prob-card prob-secondary">
+          <div class="prob-rank">03</div>
+          <h3>Capitalizar la crisis sanitaria</h3>
+          <p>Aprovechar la dimisión de la consejera Rocío Hernández (oct. 2025) tras el escándalo de los cribados de cáncer de mama.</p>
+        </article>
+        <article class="prob-card prob-secondary">
+          <div class="prob-rank">04</div>
+          <h3>Proyectar imagen de gestora</h3>
+          <p>Experiencia ejecutiva acumulada como contraste con la imagen de candidato débil que persiguió a Espadas en 2022.</p>
+        </article>
+        <article class="prob-card prob-secondary">
+          <div class="prob-rank">05</div>
+          <h3>Contener la fuga rural al PP</h3>
+          <p>En provincias como Jaén, Huelva, Córdoba y Granada, donde el desplazamiento territorial es más pronunciado.</p>
+        </article>
+        <article class="prob-card" style="background: rgba(210, 67, 110, 0.08); border-color: var(--pink);">
+          <div class="prob-rank" style="color: var(--pink);">→</div>
+          <h3>Lectura de objetivos</h3>
+          <p>El objetivo realista no es ganar, sino <strong>construir las condiciones para una recuperación a medio plazo</strong>.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 12 — PÚBLICO OBJETIVO ========== -->
+  <section class="slide slide-target" data-slide="12">
+    <div class="slide-inner">
+      <header class="slide-head">
+        <div class="slide-number">12</div>
+        <div class="slide-section">§5 · PÚBLICO OBJETIVO</div>
+      </header>
+      <h2 class="slide-title">Tres bloques de electorado.</h2>
+
+      <div class="targets">
+        <div class="target target-primary">
+          <div class="target-tag">NÚCLEO DURO</div>
+          <h3>Mujeres mayores de 55 años</h3>
+          <p>Clase media-baja, estudios primarios, residentes en municipios pequeños de las provincias del interior. Sensibles al discurso de servicios públicos y al eje sanitario.</p>
+          <div class="target-tactic">Mensaje de gestión técnica, liderazgo femenino y solvencia económica.</div>
+        </div>
+
+        <div class="target">
+          <div class="target-tag">PÚBLICO DISPUTABLE</div>
+          <h3>Abstencionistas 2022 + centroizquierda urbana</h3>
+          <p>Aproximadamente 600 000 progresistas que no acudieron a las urnas en 2022, junto con votantes de centroizquierda en Sevilla, Granada y Cádiz.</p>
+          <div class="target-tactic">Movilización + propuesta programática clara.</div>
+        </div>
+
+        <div class="target">
+          <div class="target-tag">AGUJERO ESTRATÉGICO</div>
+          <h3>Voto joven 18–34</h3>
+          <p>Vox lidera con un 23–30,6% según el CENTRA y la abstención declarada supera el 50%. Geográficamente, Sevilla concentra 18 escaños.</p>
+          <div class="target-tactic">Frente abierto: contenido digital y propuesta de vivienda.</div>
+        </div>
+
+        <div class="target target-warn">
+          <div class="target-tag">DIANA TERRITORIAL</div>
+          <h3>Sevilla</h3>
+          <p>18 escaños en juego y circunscripción natal de la candidata: provincia decisiva para el resultado global.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 13 — IDENTIDAD VISUAL ========== -->
+  <section class="slide slide-visual" data-slide="13">
+    <div class="visual-grid">
+      <div class="visual-text">
+        <header class="slide-head">
+          <div class="slide-number">13</div>
+          <div class="slide-section">§6 · IDENTIDAD VISUAL DEL PARTIDO</div>
+        </header>
+        <h2 class="slide-title">Identidad visual<br>del PSOE-A.</h2>
+        <p>Predominio del <strong>verde</strong> y el <strong>blanco</strong>, asociados a Andalucía. Aparecen de forma consistente en publicaciones, fondos y elementos gráficos: énfasis en la identidad regional.</p>
+        <ul class="palette-list">
+          <li><span class="sw sw-green"></span><span class="pal-text"><strong>Verde Andalucía</strong> · territorio e identidad regional</span></li>
+          <li><span class="sw sw-pink"></span><span class="pal-text"><strong>Rosa / morado</strong> · puntual, asociado a igualdad de género</span></li>
+          <li><span class="sw sw-cream"></span><span class="pal-text"><strong>Blanco</strong> · espacio para tipografía grande y mensaje breve</span></li>
+        </ul>
+        <p>El logo del PSOE-A aparece en verde y blanco, a diferencia de la versión nacional, tradicionalmente en rojo y blanco. El rojo solo aparece en la vestimenta de la candidata. La identidad prioriza el vínculo con el territorio andaluz por encima de la marca nacional.</p>
+      </div>
+      <div class="visual-photo">
+        <img src="img/montero_023.jpg" alt="Escenario PSOE-A: VOTA LO PÚBLICO" />
+        <div class="visual-cap">Acto en Mairena del Aljarafe · 2 mayo 2026 · Sistema visual completo en escena</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 14 — PROPUESTAS DE MEJORA I ========== -->
+  <section class="slide slide-diag" data-slide="14">
+    <div class="slide-inner">
+      <header class="slide-head">
+        <div class="slide-number">14</div>
+        <div class="slide-section">§7 · PROPUESTAS DE MEJORA · I</div>
+      </header>
+      <h2 class="slide-title">Propuestas de mejora<br>en el eje sanitario.</h2>
+
+      <div class="diag-grid" style="grid-template-columns: 1fr 1fr;">
+        <article class="prob-card">
+          <div class="prob-rank">01</div>
+          <h3>Reformular la comunicación de su trayectoria en salud</h3>
+          <p>Asumir con claridad que su carrera se ha desarrollado en gestión sanitaria, no en práctica clínica diaria. La gestión hospitalaria no es «menos medicina»: implica decisiones estructurales con impacto colectivo. La narrativa debe convertir esa experiencia en un punto fuerte y evitar la equivalencia con la «plaza de médica» que los adversarios explotan.</p>
+        </article>
+        <article class="prob-card">
+          <div class="prob-rank">02</div>
+          <h3>Centralizar la campaña en la crisis de los cribados</h3>
+          <p>Dar mayor centralidad al fallo en los cribados de cáncer de mama de octubre de 2025. No criticar genéricamente al gobierno de Moreno, sino trabajar el caso concreto como ejercicio de memoria política y como base para mostrar soluciones de gestión: cómo organizar mejor los servicios, cómo garantizar la prevención.</p>
+        </article>
+      </div>
+
+      <div class="diag-warn" style="margin-top: 18px;">
+        <span class="warn-tag">DATO CLAVE</span>
+        El Barómetro Sanitario 2025 sitúa a Andalucía en el último puesto de España en satisfacción con la sanidad pública: <strong>5,72</strong> sobre 10 frente a la media nacional de <strong>6,28</strong>. Es una caída de 0,43 puntos desde 2018.
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 15 — PROPUESTAS DE MEJORA II ========== -->
+  <section class="slide slide-goals" data-slide="15">
+    <div class="goals-grid">
+      <div class="goals-text">
+        <header class="slide-head">
+          <div class="slide-number">15</div>
+          <div class="slide-section">§7 · PROPUESTAS DE MEJORA · II</div>
+        </header>
+        <h2 class="slide-title">Autonomía narrativa,<br>cercanía digital y posicionamiento.</h2>
+        <p class="lede">El resto de propuestas inciden en la construcción de una candidatura con identidad andaluza propia, una estrategia digital orientada a la cercanía y un posicionamiento creíble desde la desventaja.</p>
+      </div>
+
+      <ol class="goals-list">
+        <li>
+          <div class="goal-num">03</div>
+          <div class="goal-content">
+            <h3>Trayectoria política con autonomía e identidad andaluza</h3>
+            <p>Poner en valor su recorrido como ministra y gestora, pero dejando claro que su gobierno será para Andalucía. El paso por Madrid no es alejamiento, sino una etapa que ha ampliado su preparación. Marcar distancia con la imagen del Gobierno central sin negar la trayectoria.</p>
+          </div>
+        </li>
+        <li class="goal-key">
+          <div class="goal-num">04</div>
+          <div class="goal-content">
+            <h3>Estrategia digital de contenido informativo y cercanía</h3>
+            <p>Vídeos cortos tipo «explico en 1 minuto», menor producción, mayor espontaneidad. Trasladar la crisis de los cribados con lenguaje accesible. Mostrar motivaciones, trayectoria y vínculo con Andalucía para corregir la dificultad de generar conexión emocional.</p>
+          </div>
+        </li>
+        <li>
+          <div class="goal-num">05</div>
+          <div class="goal-content">
+            <h3>Asumir la desventaja y construir liderazgo desde ella</h3>
+            <p>No ocultar que parte por detrás de Moreno: incorporarlo a la narrativa. Posicionarla como alternativa necesaria, construir relato de reto, no de continuidad. El objetivo no es parecer débil, sino creíble.</p>
+          </div>
+        </li>
+        <li>
+          <div class="goal-num">07</div>
+          <div class="goal-content">
+            <h3>Giro comunicativo a la cercanía y la claridad</h3>
+            <p>Frases más cortas y directas, menos jerga institucional, tono conversacional sin perder solvencia. No solo «ser más cercana»: ser <em>más comprensible</em> y <em>más humana</em> al mismo tiempo.</p>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 16 — CARTEL ELECTORAL Y RRSS ========== -->
+  <section class="slide slide-poster" data-slide="16">
+    <div class="slide-inner">
+      <header class="slide-head">
+        <div class="slide-number">16</div>
+        <div class="slide-section">§8 · CARTEL ELECTORAL · §9 EJECUCIÓN · §10 PUBLICIDAD PARA RRSS</div>
+      </header>
+      <h2 class="slide-title">Cartel electoral<br>y publicidad para redes sociales.</h2>
+
+      <div class="poster-grid" style="grid-template-columns: 0.8fr 0.8fr 1.2fr;">
+        <figure class="poster-orig">
+          <div class="poster-frame">
+            <div class="orig-cartel">
+              <div class="oc-top">VOTA<br><span>SANIDAD PÚBLICA</span></div>
+              <div class="oc-mid"><img src="img/montero_oficial_2023.jpg" alt="Montero"></div>
+              <div class="oc-foot">
+                <span>17 · 05 · 2026</span>
+                <span class="oc-mjm">MARÍA JESÚS MONTERO</span>
+                <span class="oc-psoe">Andalucía PSOE</span>
+              </div>
+            </div>
+          </div>
+          <figcaption><strong>Reconstrucción del cartel actual.</strong> Mensaje claro pero retrato institucional, sin contexto de territorio.</figcaption>
+        </figure>
+
+        <figure class="poster-improved">
+          <div class="poster-frame poster-frame-pink">
+            <div class="new-cartel">
+              <img src="img/montero_018.jpg" alt="Montero con militancia">
+              <div class="nc-overlay">
+                <div class="nc-tagline">DEFIENDE</div>
+                <div class="nc-tagline-bold">LO TUYO.</div>
+                <div class="nc-sub">Sanidad. Vivienda. Andalucía.</div>
+                <div class="nc-foot">
+                  <span class="nc-mjm">MARÍA JESÚS<br>MONTERO</span>
+                  <span class="nc-date">17·05·26</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <figcaption><strong>Propuesta de mejora del cartel.</strong> Foto de mitin real, mensaje en posesivo, tres ejes en lugar de uno.</figcaption>
+        </figure>
+
+        <figure class="rrss-card-inline">
+          <div class="rrss-mock-x" style="aspect-ratio: 4/5;">
+            <div class="x-handle">María Jesús Montero <span>@MJMontero</span></div>
+            <p class="x-text">2 043 mujeres andaluzas no fueron avisadas de que su cribado de mama no era concluyente.<br><br>Eso no es un fallo informático. Es lo que pasa cuando se ahorra en lo que importa.<br><br>El 17 de mayo, defiende lo tuyo. <strong>#DefiendeLoPúblico</strong></p>
+            <div class="x-meta">07:42 · 6 may 2026 · 14,2k</div>
+          </div>
+          <figcaption><strong>Pieza para RRSS · X / Twitter.</strong> Memoria política sobre los cribados y eslogan de cierre. Tono documental, no épico.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SLIDE 17 — REFERENCIAS ========== -->
+  <section class="slide slide-end" data-slide="17">
+    <div class="end-grid">
+      <div class="end-text">
+        <header class="slide-head">
+          <div class="slide-number">17</div>
+          <div class="slide-section">§11 · REFERENCIAS</div>
+        </header>
+        <h2 class="slide-title">Fuentes consultadas.</h2>
+
+        <p class="lede" style="margin-bottom: 18px;">El trabajo se apoya en fuentes institucionales del CIS, en el barómetro andaluz de la Fundación CENTRA, en encuestas privadas publicadas durante abril de 2026 y en cobertura de prensa generalista nacional y andaluza.</p>
+
+        <h4 style="font-family: var(--f-mono); font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--pink); margin-bottom: 12px;">Equipo</h4>
+        <p style="font-family: var(--f-display); font-weight: 800; font-size: 16px; letter-spacing: 0.04em; color: var(--paper);">M.ª Socorro Rodríguez Hernández · Lucas Gorodneff · Karelyn Salvador · Alice Portes</p>
+        <p style="font-family: var(--f-mono); font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(244,239,226,0.55); margin-top: 6px;">Publicidad Política · Curso 2025–2026 · Entrega 15 mayo · Exposición 7 mayo</p>
+      </div>
+
+      <aside class="end-refs">
+        <h3>Catálogo de fuentes</h3>
+        <ul class="refs">
+          <li><span class="ref-tag">CIS</span><span class="ref-text">Estudio <strong>3558</strong> — Preelectoral autonómicas Andalucía 2026 · 8 017 entrevistas (10–18 abril 2026)</span></li>
+          <li><span class="ref-tag">CIS</span><span class="ref-text">Estudios 3365 y 3367 — Preelectoral y Flash autonómicas 2022</span></li>
+          <li><span class="ref-tag">CIS</span><span class="ref-text">Estudio 3370 — Postelectoral autonómicas 2022 (transferencias de voto y debacle del PSOE-A)</span></li>
+          <li><span class="ref-tag">CIS · MS</span><span class="ref-text">Barómetro Sanitario 2025 — estudios 3509, 3519 y 3531 · 7 197 entrevistas</span></li>
+          <li><span class="ref-tag">CENTRA</span><span class="ref-text">Barómetro Andaluz de la Fundación CENTRA · trimestral · 3 600 entrevistas</span></li>
+          <li><span class="ref-tag">PRIVADAS</span><span class="ref-text">GAD3 (ABC), IMOP (Henneo), Sigma Dos (El Mundo), Votómetro Redlines (The Objective) — abril 2026</span></li>
+          <li><span class="ref-tag">PRENSA</span><span class="ref-text">El Mundo · ABC · El Confidencial · Libertad Digital — cobertura febrero–abril 2026</span></li>
+          <li><span class="ref-tag">JUNTA</span><span class="ref-text">Resultados oficiales del Parlamento de Andalucía 2022</span></li>
+          <li><span class="ref-tag">IMAGEN</span><span class="ref-text">Flickr oficial PSOE — actos de Cártama, Mairena del Aljarafe y Huelva (1–5 mayo 2026) · CC BY-NC-ND 4.0</span></li>
+          <li><span class="ref-tag">IMAGEN</span><span class="ref-text">Wikimedia Commons · Pool Moncloa (retratos institucionales)</span></li>
+        </ul>
+      </aside>
+    </div>
+  </section>
+
+</main>
+
+<!-- NAV -->
+<nav class="nav">
+  <button class="nav-btn nav-prev" id="navPrev" aria-label="Slide anterior">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M15 19l-7-7 7-7" stroke="currentColor" stroke-width="2"/></svg>
+  </button>
+  <button class="nav-btn nav-next" id="navNext" aria-label="Slide siguiente">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M9 5l7 7-7 7" stroke="currentColor" stroke-width="2"/></svg>
+  </button>
+</nav>
+
+<!-- DOTS -->
+<div class="dots" id="dots"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
