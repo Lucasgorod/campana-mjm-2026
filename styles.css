@@ -1260,26 +1260,32 @@ body::before {
 }
 .palette-list {
   list-style: none;
-  margin: 18px 0 18px 0;
+  margin: 14px 0 14px 0;
 }
 .palette-list li {
   display: flex;
   align-items: center;
-  gap: 18px;
-  padding: 10px 0;
+  gap: 14px;
+  padding: 7px 0;
   border-bottom: 1px solid var(--rule);
   font-family: var(--f-sans);
-  font-size: 13.5px;
+  font-size: 12.5px;
 }
-.pal-text { line-height: 1.4; }
+.palette-list .sw {
+  width: 28px; height: 28px;
+  flex-shrink: 0;
+}
+.pal-text { line-height: 1.35; }
 .sw {
   width: 36px; height: 36px;
   border-radius: 4px;
   border: 1px solid var(--rule-strong);
 }
-.sw-green { background: linear-gradient(135deg, var(--green-bright), var(--green)); }
-.sw-pink  { background: linear-gradient(135deg, var(--pink), var(--pink-2)); }
-.sw-cream { background: var(--paper); }
+.sw-green  { background: linear-gradient(135deg, var(--green-bright), var(--green)); }
+.sw-pink   { background: linear-gradient(135deg, #E04B7B, var(--pink-2)); }
+.sw-purple { background: linear-gradient(135deg, #8B4FA8, #5E2A82); }
+.sw-red    { background: linear-gradient(135deg, #D43A3A, #9C1F1F); }
+.sw-cream  { background: var(--paper); }
 
 .visual-photo {
   position: relative;

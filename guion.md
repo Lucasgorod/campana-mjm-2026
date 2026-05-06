@@ -130,11 +130,11 @@ Te paso, Alice.»
 
 #### → Slide 13 · Identidad visual (≈ 50 s)
 
-«Visualmente la campaña tiene una decisión muy potente: no usa el rojo histórico del PSOE. Usa **verde y blanco**, los colores de Andalucía. El rojo solo aparece en la vestimenta puntual de la candidata.
+«Visualmente la campaña tiene una decisión muy potente: relega el rojo histórico del PSOE. Usa como dominantes el **verde y el blanco**, los colores de Andalucía, y como secundarios una **gama cálida de rosa, morado y rojo**.
 
-A esto se suma el rosa magenta para los actos vinculados a igualdad —fijaos en la pantalla, esa imagen es del acto en Mairena del Aljarafe del 2 de mayo— y la tipografía siempre es grande, condensada, con mensajes muy cortos: **VOTA · DEFIENDE**.
+El rosa magenta lo veis en los actos de «Vota Igualdad» —esa imagen en pantalla es del acto en Mairena del Aljarafe del 2 de mayo—, el morado se reserva para temas de igualdad de género y feminismo, y el rojo, la marca clásica del PSOE, aparece solo en la vestimenta puntual de la candidata, no en piezas gráficas.
 
-La estrategia visual prioriza el vínculo con el territorio andaluz por encima de la marca nacional del partido. Es una decisión coherente con los datos que veíamos antes: si el 70% va a votar autonómico, mejor parecer andaluz que parecer Madrid.»
+La tipografía es siempre grande, condensada, con mensajes muy cortos: **VOTA · DEFIENDE**. La estrategia prioriza el vínculo con el territorio andaluz por encima de la marca nacional del partido. Es una decisión coherente con los datos que veíamos antes: si el 70% va a votar autonómico, mejor parecer andaluz que parecer Madrid.»
 
 #### → Slide 14 · Propuestas de mejora I — sanidad (≈ 50 s)
 
