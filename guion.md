@@ -1,7 +1,7 @@
 # Guion de exposición — María Jesús Montero
 
 **Fecha de exposición:** 7 de mayo de 2026
-**Duración total estimada:** 12–14 minutos
+**Duración total estimada:** 13–15 minutos
 **Equipo:** M.ª Socorro Rodríguez Hernández · Lucas Gorodneff · Karelyn Salvador · Alice Portes
 
 > **Indicaciones generales:** este guion está pensado para hablar, no para leer. Las frases marcan el contenido que hay que tocar; los datos en negrita son los que sí conviene decir literalmente. Cada intervención termina con una transición al siguiente compañero. La indicación `→ slide N` señala cuándo avanzar.
@@ -125,8 +125,8 @@ Te paso, Alice.»
 
 ---
 
-## Bloque 4 · Identidad visual, propuestas y cierre (≈ 3,5 min)
-### Alice · slides 13 a 17
+## Bloque 4 · Identidad visual, propuestas y cierre (≈ 4 min)
+### Alice · slides 13 a 18
 
 #### → Slide 13 · Identidad visual (≈ 50 s)
 
@@ -156,17 +156,27 @@ La quinta: asumir la desventaja y construir liderazgo desde ahí. No parecer fav
 
 Y la séptima: giro comunicativo a la cercanía y la claridad. Frases más cortas, menos jerga institucional, tono conversacional. No solo «más cercana»: más comprensible y más humana al mismo tiempo.»
 
-#### → Slide 16 · Cartel y RRSS (≈ 50 s)
+#### → Slide 16 · Cartel electoral (≈ 50 s)
 
-«Y esto se materializa en dos piezas concretas.
+«Estas propuestas se materializan, primero, en el cartel electoral.
 
-A la izquierda tenéis nuestra reconstrucción del cartel actual: «Vota sanidad pública», retrato institucional sobre fondo verde. Funciona, pero es frío y unidimensional.
+A la izquierda tenéis nuestra reconstrucción del cartel actual: «Vota sanidad pública», retrato institucional sobre fondo verde. Funciona, pero es frío y unidimensional: una foto de gabinete, una sola idea y poco vínculo con el territorio.
 
-En el centro, nuestra propuesta de mejora: foto de mitin real, mensaje en posesivo —**«defiende lo tuyo»** en lugar de «lo público», porque es más cercano— y los **tres ejes** en lugar de uno solo: sanidad, vivienda, Andalucía. El rosa magenta rompe la saturación verde de la campaña y recupera el tono de igualdad.
+A la derecha, nuestra propuesta de mejora. Foto humana en mitin real —Montero abrazada con militantes y simpatizantes—, mensaje en posesivo —**«defiende lo tuyo»** en lugar de «lo público», porque es más cercano y emocional— y los **tres ejes** en lugar de uno solo: sanidad, vivienda, Andalucía. El rosa magenta rompe la saturación verde de la campaña y recupera el tono de igualdad que la marca usa en los actos de mujer.»
 
-A la derecha, una pieza para X. Tono documental, no épico: dato concreto sobre los cribados —2 043 mujeres no avisadas—, cierre político y hashtag. Es el formato que mejor mueve la conversación en redes españolas.»
+#### → Slide 17 · Publicidad para redes sociales (≈ 1 min)
 
-#### → Slide 17 · Referencias y cierre (≈ 40 s)
+«Y, de forma más amplia, en redes sociales. Aquí proponemos **tres formatos para tres canales**, cada uno con su tono y su métrica.
+
+En **Instagram**, stories diarias de cercanía: encuentros con militancia, momentos de campaña, citas cortas en formato visual. Métrica de alcance y guardados.
+
+En **TikTok**, reels verticales tres veces por semana en formato «explico en un minuto». Tono directo, mensaje contundente —fijaos en el ejemplo en pantalla: «yo gerencié el Virgen del Rocío, sé cómo se rompe un hospital»—, que aprovecha la trayectoria sanitaria que veíamos en las propuestas. Métrica de share rate.
+
+Y en **X**, hilos diarios con tono documental, no épico. El ejemplo de la derecha —dato concreto sobre los 2 043 cribados sin notificar, cierre político y hashtag— es el tipo de pieza que mueve conversación. Métrica de citas, no de likes.
+
+Es la traducción operativa de la Propuesta 4 que veíamos hace un momento: bajar el lenguaje institucional, generar conexión emocional y trabajar la memoria política.»
+
+#### → Slide 18 · Referencias y cierre (≈ 40 s)
 
 «Para cerrar: el trabajo se apoya en fuentes institucionales —el preelectoral 3558 del CIS, los estudios postelectorales de 2022, el Barómetro Sanitario del Ministerio, el Barómetro andaluz del CENTRA—, en cuatro encuestas privadas recientes y en cobertura de prensa nacional y andaluza. Las imágenes de mítines son del Flickr oficial del PSOE, con licencia Creative Commons.
 
@@ -183,8 +193,8 @@ Muchas gracias.»
 | Apertura y candidata | Socorro | 1–5 | ≈ 3 min |
 | Datos demoscópicos | Lucas | 6–9 | ≈ 3,5 min |
 | Concepto, objetivos, público | Karelyn | 10–12 | ≈ 3 min |
-| Identidad, propuestas, cierre | Alice | 13–17 | ≈ 3,5 min |
-| **Total** | | **17 slides** | **≈ 13 min** |
+| Identidad, propuestas, cartel, RRSS, cierre | Alice | 13–18 | ≈ 4 min |
+| **Total** | | **18 slides** | **≈ 14 min** |
 
 ## Consejos finales para la exposición
 
