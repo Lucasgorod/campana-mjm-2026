@@ -10,3 +10,9 @@ desktop.ini
 
 # Scripts temporales de descarga
 img/descarga.sh
+
+# Imágenes de referencia privadas (WhatsApp screenshots, etc.)
+WhatsApp*.jpeg
+WhatsApp*.jpg
+WhatsApp*.png
+Cartel María Jesus Montero.png
