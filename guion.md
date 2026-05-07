@@ -184,7 +184,7 @@ Y la séptima: giro comunicativo a la cercanía y la claridad. Frases más corta
 
 A la izquierda tenéis nuestra reconstrucción del cartel actual: «Vota sanidad pública», retrato institucional sobre fondo verde. Funciona, pero es frío y unidimensional: una foto de gabinete, una sola idea y poco vínculo con el territorio.
 
-A la derecha, nuestra propuesta de mejora. Foto humana en mitin real —Montero abrazada con militantes y simpatizantes—, mensaje en posesivo —**«defiende lo tuyo»** en lugar de «lo público», porque es más cercano y emocional— y los **tres ejes** en lugar de uno solo: sanidad, vivienda, Andalucía. El rosa magenta rompe la saturación verde de la campaña y recupera el tono de igualdad que la marca usa en los actos de mujer.»
+A la derecha, nuestra propuesta de mejora. Foto humana en mitin real, Montero aplaudiendo con la militancia y las banderas de Andalucía detrás. El mensaje en segunda persona —**«La Andalucía que mereces»**— habla directamente al votante en lugar de pedirle algo. Mantenemos el sistema visual verde-blanco coherente con la marca actual, y abajo se conserva el eslogan **«Defiende lo público»** como cierre. La pieza es más cálida, más territorial y más emocional que el cartel original.»
 
 #### → Slide 19 · Publicidad para redes sociales (≈ 1 min)
 
