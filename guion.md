@@ -82,12 +82,12 @@ Te paso, Karelyn.»
 
 ---
 
-## Bloque 3 · Concepto, objetivos y público (≈ 3 min)
+## Bloque 3 · Temas, objetivos y público (≈ 3 min)
 ### Karelyn · slides 10 a 12
 
-#### → Slide 10 · Concepto y estrategia (≈ 1 min)
+#### → Slide 10 · Temas y prioridades de campaña (≈ 1 min)
 
-«Frente a esos datos, el equipo de Montero ha construido un concepto de campaña muy concreto, articulado sobre **tres ejes** que conectan directamente con lo que el CIS detecta como prioridades de la ciudadanía.
+«Frente a esos datos, el equipo de Montero ha priorizado **tres ejes temáticos** que conectan directamente con lo que el CIS detecta como prioridades de la ciudadanía.
 
 Primero, la sanidad pública: el **67% de los andaluces** señala mejorarla como su principal razón para votar, y el 42% la sitúa como primer problema de la comunidad. Y el Barómetro Sanitario del Ministerio confirma que Andalucía es la última de España en satisfacción con su sanidad.
 
@@ -125,18 +125,30 @@ Te paso, Alice.»
 
 ---
 
-## Bloque 4 · Identidad visual, propuestas y cierre (≈ 4 min)
-### Alice · slides 13 a 18
+## Bloque 4 · Estrategias, identidad, propuestas y cierre (≈ 4,5 min)
+### Alice · slides 13 a 19
 
-#### → Slide 13 · Identidad visual (≈ 50 s)
+#### → Slide 13 · Estrategias y tipologías de campaña (≈ 1 min 10 s)
 
-«Visualmente la campaña tiene una decisión muy potente: relega el rojo histórico del PSOE. Usa como dominantes el **verde y el blanco**, los colores de Andalucía, y como secundarios una **gama cálida de rosa, morado y rojo**.
+«Una vez vistos los temas, los objetivos y el público, vamos a entrar en cómo se traducen en estrategia comunicativa. La campaña no usa una sola tipología: combina **seis** que operan en paralelo.
+
+La primera es la **campaña de refuerzo**, orientada a consolidar el apoyo socialista ya existente y fidelizar a las bases históricas. La segunda, la **campaña de movilización**, busca convertir ese apoyo en voto efectivo, sobre todo entre los 600 000 abstencionistas progresistas que veíamos antes.
+
+La tercera es la **campaña programática**: foco en el partido, su marca y sus propuestas, ya conocidas por el electorado. La cuarta es **positiva y biográfica**: en lugar de atacar a Moreno —que tiene buena imagen— se prioriza la trayectoria de la candidata, su perfil técnico de médica gestora. El eslogan «defiende lo público» sintetiza este posicionamiento.
+
+La quinta es la **campaña de oposición**, pero entendida de forma sutil: no son ataques directos, sino la identificación de fallos concretos del gobierno actual. La crisis de los cribados es el ejemplo claro.
+
+Y la sexta es la **campaña híbrida**: combina lo digital —redes y contenidos coordinados— con lo tradicional —terreno, mítines, contacto directo—. En síntesis: una estrategia multifacética que articula consolidación, movilización, programa, imagen personal y narrativa de cambio.»
+
+#### → Slide 14 · Identidad visual (≈ 45 s)
+
+«Visualmente, la campaña tiene una decisión muy potente: relega el rojo histórico del PSOE. Usa como dominantes el **verde y el blanco**, los colores de Andalucía, y como secundarios una **gama cálida de rosa, morado y rojo**.
 
 El rosa magenta lo veis en los actos de «Vota Igualdad» —esa imagen en pantalla es del acto en Mairena del Aljarafe del 2 de mayo—, el morado se reserva para temas de igualdad de género y feminismo, y el rojo, la marca clásica del PSOE, aparece solo en la vestimenta puntual de la candidata, no en piezas gráficas.
 
 La tipografía es siempre grande, condensada, con mensajes muy cortos: **VOTA · DEFIENDE**. La estrategia prioriza el vínculo con el territorio andaluz por encima de la marca nacional del partido. Es una decisión coherente con los datos que veíamos antes: si el 70% va a votar autonómico, mejor parecer andaluz que parecer Madrid.»
 
-#### → Slide 14 · Propuestas de mejora I — sanidad (≈ 50 s)
+#### → Slide 15 · Propuestas de mejora I — sanidad (≈ 50 s)
 
 «A partir de aquí entramos en nuestras propuestas de mejora. Hay siete en total. Las dos primeras tienen que ver con el eje sanitario.
 
@@ -144,7 +156,7 @@ La primera: reformular cómo se comunica su trayectoria en salud. Montero es mé
 
 La segunda: centralizar la campaña en la **crisis de los cribados**. No críticas genéricas a Moreno, sino el caso concreto, con memoria política y soluciones de gestión. Y aquí está el dato clave: el Barómetro Sanitario sitúa a Andalucía en el último puesto de España con **5,72 sobre 10** frente a la media nacional de 6,28. Esto da soporte empírico al discurso.»
 
-#### → Slide 15 · Propuestas de mejora II — autonomía y digital (≈ 50 s)
+#### → Slide 16 · Propuestas de mejora II — autonomía y digital (≈ 50 s)
 
 «Las cuatro propuestas restantes están más centradas en el posicionamiento.
 
@@ -156,7 +168,7 @@ La quinta: asumir la desventaja y construir liderazgo desde ahí. No parecer fav
 
 Y la séptima: giro comunicativo a la cercanía y la claridad. Frases más cortas, menos jerga institucional, tono conversacional. No solo «más cercana»: más comprensible y más humana al mismo tiempo.»
 
-#### → Slide 16 · Cartel electoral (≈ 50 s)
+#### → Slide 17 · Cartel electoral (≈ 50 s)
 
 «Estas propuestas se materializan, primero, en el cartel electoral.
 
@@ -164,7 +176,7 @@ A la izquierda tenéis nuestra reconstrucción del cartel actual: «Vota sanidad
 
 A la derecha, nuestra propuesta de mejora. Foto humana en mitin real —Montero abrazada con militantes y simpatizantes—, mensaje en posesivo —**«defiende lo tuyo»** en lugar de «lo público», porque es más cercano y emocional— y los **tres ejes** en lugar de uno solo: sanidad, vivienda, Andalucía. El rosa magenta rompe la saturación verde de la campaña y recupera el tono de igualdad que la marca usa en los actos de mujer.»
 
-#### → Slide 17 · Publicidad para redes sociales (≈ 1 min)
+#### → Slide 18 · Publicidad para redes sociales (≈ 1 min)
 
 «Y, de forma más amplia, en redes sociales. Aquí proponemos **tres formatos para tres canales**, cada uno con su tono y su métrica.
 
@@ -176,7 +188,7 @@ Y en **X**, hilos diarios con tono documental, no épico. El ejemplo de la derec
 
 Es la traducción operativa de la Propuesta 4 que veíamos hace un momento: bajar el lenguaje institucional, generar conexión emocional y trabajar la memoria política.»
 
-#### → Slide 18 · Referencias y cierre (≈ 40 s)
+#### → Slide 19 · Referencias y cierre (≈ 40 s)
 
 «Para cerrar: el trabajo se apoya en fuentes institucionales —el preelectoral 3558 del CIS, los estudios postelectorales de 2022, el Barómetro Sanitario del Ministerio, el Barómetro andaluz del CENTRA—, en cuatro encuestas privadas recientes y en cobertura de prensa nacional y andaluza. Las imágenes de mítines son del Flickr oficial del PSOE, con licencia Creative Commons.
 
@@ -192,9 +204,9 @@ Muchas gracias.»
 |---|---|---|---|
 | Apertura y candidata | Socorro | 1–5 | ≈ 3 min |
 | Datos demoscópicos | Lucas | 6–9 | ≈ 3,5 min |
-| Concepto, objetivos, público | Karelyn | 10–12 | ≈ 3 min |
-| Identidad, propuestas, cartel, RRSS, cierre | Alice | 13–18 | ≈ 4 min |
-| **Total** | | **18 slides** | **≈ 14 min** |
+| Temas, objetivos, público | Karelyn | 10–12 | ≈ 3 min |
+| Estrategias, identidad, propuestas, cartel, RRSS, cierre | Alice | 13–19 | ≈ 4,5 min |
+| **Total** | | **19 slides** | **≈ 14 min** |
 
 ## Consejos finales para la exposición
 
