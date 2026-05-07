@@ -19,7 +19,7 @@ La idea del trabajo no es vender la candidatura: es analizarla con los datos sob
 
 #### → Slide 2 · Índice (≈ 20 s)
 
-«Estructuramos la presentación en once bloques que veis en pantalla: partido y candidato, datos de campaña con previsiones, temas y prioridades, objetivos, público objetivo, las seis estrategias o tipologías de campaña, identidad visual, propuestas de mejora, cartel electoral, publicidad para redes sociales y referencias. En total, **23 slides**, repartidos entre los cuatro.»
+«Estructuramos la presentación en once bloques que veis en pantalla: partido y candidata, datos de campaña con previsiones, temas y prioridades, objetivos, público objetivo, las seis estrategias o tipologías de campaña, identidad visual, propuestas de mejora, cartel electoral, publicidad para redes sociales y referencias. En total, **23 slides**, repartidos entre los cuatro.»
 
 #### → Slide 3 · Contextualización (≈ 40 s)
 
@@ -27,7 +27,7 @@ La idea del trabajo no es vender la candidatura: es analizarla con los datos sob
 
 Eso es lo que hace que la campaña sea interesante: el PSOE-A llega al ciclo con la presión de tener que recuperar terreno desde una posición claramente defensiva.»
 
-#### → Slide 4 · Perfil bibliográfico (≈ 50 s)
+#### → Slide 4 · Perfil biográfico (≈ 50 s)
 
 «El perfil de Montero es atípico. Es médica, licenciada en Medicina y Cirugía por la Universidad de Sevilla, y antes de ser política fue gestora hospitalaria: subdirectora del Virgen de Valme y luego gerente del Virgen del Rocío.
 
