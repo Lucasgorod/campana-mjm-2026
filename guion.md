@@ -1,7 +1,7 @@
 # Guion de exposición — María Jesús Montero
 
 **Fecha de exposición:** 7 de mayo de 2026
-**Duración total estimada:** 13–15 minutos
+**Duración total estimada:** 15–17 minutos
 **Equipo:** M.ª Socorro Rodríguez Hernández · Lucas Gorodneff · Karelyn Salvador · Alice Portes
 
 > **Indicaciones generales:** este guion está pensado para hablar, no para leer. Las frases marcan el contenido que hay que tocar; los datos en negrita son los que sí conviene decir literalmente. Cada intervención termina con una transición al siguiente compañero. La indicación `→ slide N` señala cuándo avanzar.
@@ -125,32 +125,48 @@ Te paso, Alice.»
 
 ---
 
-## Bloque 4 · Estrategias, identidad, propuestas y cierre (≈ 5 min)
-### Alice · slides 13 a 20
+## Bloque 4 · Estrategias, identidad, propuestas y cierre (≈ 6 min)
+### Alice · slides 13 a 23
 
-#### → Slide 13 · Estrategias I — consolidar, activar, posicionar (≈ 45 s)
+#### → Slide 13 · Campaña de refuerzo (≈ 45 s)
 
-«Una vez vistos los temas, los objetivos y el público, vamos a entrar en cómo se traducen en estrategia comunicativa. La campaña no usa una sola tipología: combina **seis** que operan en paralelo. Las veréis en estos dos slides.
+«Una vez vistos los temas, los objetivos y el público, vamos a entrar en cómo se traducen en estrategia comunicativa. La campaña no usa una sola tipología: combina **seis** que operan en paralelo. Las cuatro principales tienen presencia visual clara en redes —os las muestro con capturas de la cuenta de Montero— y las otras dos las comento al final.
 
-Las tres primeras buscan asentar la marca y la base de votantes.
+La primera es la **campaña de refuerzo**: consolida el apoyo dentro del electorado socialista, fortalece la identificación con el partido y fideliza las bases históricas. Aquí veis dos ejemplos: un story con Zapatero —referente histórico del PSOE— y la foto del acto multitudinario de Cártama con Pedro Sánchez al lado de Montero.
 
-La **campaña de refuerzo** consolida el apoyo dentro del electorado socialista, fortalece la identificación con el partido y fideliza las bases históricas. La idea es que el voto socialista que se expresa en generales también se exprese en autonómicas.
+El mensaje es claro: la idea es que el voto socialista que se expresa en generales **también** se exprese en autonómicas. No se busca captar voto nuevo, se asegura el voto que ya está.»
 
-La **campaña de movilización** activa al electorado e incentiva su participación. No es solo mantener el apoyo, sino garantizar que se traduzca en voto. El objetivo concreto son los **600 000 progresistas** que se abstuvieron en 2022.
+#### → Slide 14 · Campaña programática (≈ 40 s)
 
-Y la **campaña programática** pone el foco en el partido, en su marca y en sus propuestas conocidas. Refuerza la dimensión ideológica del PSOE y posiciona la candidatura dentro de un marco asociado a valores progresistas.»
+«La segunda tipología que veis con claridad es la **campaña programática**: pone el foco en el partido, en su marca y en sus propuestas, ya conocidas por el electorado.
 
-#### → Slide 14 · Estrategias II — imagen, narrativa, canales (≈ 45 s)
+En la captura veis a Montero en un mitin con el rótulo «**porque sabemos hacerlo**». Es la traducción visual exacta de esta estrategia: refuerza la dimensión ideológica del PSOE y conecta la candidatura con la trayectoria de Montero como ministra de Hacienda. La campaña pone en valor ese vínculo con la gestión nacional en lugar de esconderlo.»
 
-«Las otras tres tipologías construyen la imagen personal y la narrativa de cambio.
+#### → Slide 15 · Campaña positiva (≈ 40 s)
 
-La **campaña positiva y biográfica** es la apuesta por destacar las cualidades propias en lugar de atacar a Moreno —que tiene buena imagen y un enfrentamiento directo generaría rechazo—. La biografía de Montero como médica gestora es central, y el eslogan «defiende lo público» sintetiza este posicionamiento.
+«La tercera es la **campaña positiva**. Tono predominantemente positivo, orientado a la idea de cambio. Juanma Moreno está bien valorado, así que un enfrentamiento directo generaría más rechazo que apoyo.
 
-La **campaña de oposición** es sutil: no son ataques directos, sino la identificación de fallos concretos del gobierno actual. La crisis de los cribados es el ejemplo paradigmático y permite construir narrativa de cambio sin perder el tono positivo.
+La campaña evita ataques frontales y prioriza destacar las cualidades de Montero: su trayectoria, su perfil técnico de médica gestora, su capacidad ejecutiva. La biografía se vuelve elemento de legitimidad. En la captura, fijaos en la imagen: Montero saludando a militantes con cercanía, con un mensaje del PSOE-A —«estamos en marcha con el mejor equipo que Andalucía necesita»—. Es construcción de imagen pura.»
 
-Y la **campaña híbrida** combina lo digital —redes y contenidos coordinados— con lo tradicional —terreno, mítines, contacto directo—. En síntesis: una estrategia multifacética que articula consolidación, movilización, programa, imagen personal y narrativa de cambio.»
+#### → Slide 16 · Campaña de oposición (≈ 50 s)
 
-#### → Slide 15 · Identidad visual (≈ 45 s)
+«La cuarta es la **campaña de oposición**, y esto es importante: no se basa en ataques directos al adversario, sino en la identificación de problemas y desgastes del gobierno actual.
+
+A la izquierda, una entrevista en Almería denunciando que pacientes andaluces están siendo derivados a clínicas privadas en Murcia: es una manera concreta de señalar el desvío de recursos públicos al negocio privado. A la derecha, un acto donde aparece el rótulo «**estabilidad frente al** sistema sanitario más colapsado de España», cuestionando la narrativa del PP-A.
+
+La crisis de los cribados es el ejemplo paradigmático: se utiliza para construir narrativa de cambio **sin abandonar el tono positivo**.»
+
+#### → Slide 17 · Otras tipologías (≈ 30 s)
+
+«Y por último, dos modalidades que no tienen pieza visual destacable porque operan como envoltorio operativo del resto.
+
+La **campaña de movilización** activa al electorado existente y se concreta más en logística —puerta a puerta, llamadas, transporte el día de las elecciones— que en piezas para redes. Apunta a los 600 000 progresistas abstencionistas de 2022.
+
+Y la **campaña híbrida** combina lo digital con lo tradicional: las cuatro tipologías anteriores se distribuyen tanto en redes como en presencial. Define el cómo, no el qué.
+
+En síntesis: una estrategia multifacética que articula consolidación, movilización, programa, imagen personal y narrativa de cambio.»
+
+#### → Slide 18 · Identidad visual (≈ 45 s)
 
 «Visualmente, la campaña tiene una decisión muy potente: relega el rojo histórico del PSOE. Usa como dominantes el **verde y el blanco**, los colores de Andalucía, y como secundarios una **gama cálida de rosa, morado y rojo**.
 
@@ -158,7 +174,7 @@ El rosa magenta lo veis en los actos de «Vota Igualdad» —esa imagen en panta
 
 La tipografía es siempre grande, condensada, con mensajes muy cortos: **VOTA · DEFIENDE**. La estrategia prioriza el vínculo con el territorio andaluz por encima de la marca nacional del partido. Es una decisión coherente con los datos que veíamos antes: si el 70% va a votar autonómico, mejor parecer andaluz que parecer Madrid.»
 
-#### → Slide 16 · Propuestas de mejora I — sanidad (≈ 50 s)
+#### → Slide 19 · Propuestas de mejora I — sanidad (≈ 50 s)
 
 «A partir de aquí entramos en nuestras propuestas de mejora. Hay siete en total. Las dos primeras tienen que ver con el eje sanitario.
 
@@ -166,7 +182,7 @@ La primera: reformular cómo se comunica su trayectoria en salud. Montero es mé
 
 La segunda: centralizar la campaña en la **crisis de los cribados**. No críticas genéricas a Moreno, sino el caso concreto, con memoria política y soluciones de gestión. Y aquí está el dato clave: el Barómetro Sanitario sitúa a Andalucía en el último puesto de España con **5,72 sobre 10** frente a la media nacional de 6,28. Esto da soporte empírico al discurso.»
 
-#### → Slide 17 · Propuestas de mejora II — autonomía y digital (≈ 50 s)
+#### → Slide 20 · Propuestas de mejora II — autonomía y digital (≈ 50 s)
 
 «Las cuatro propuestas restantes están más centradas en el posicionamiento.
 
@@ -178,7 +194,7 @@ La quinta: asumir la desventaja y construir liderazgo desde ahí. No parecer fav
 
 Y la séptima: giro comunicativo a la cercanía y la claridad. Frases más cortas, menos jerga institucional, tono conversacional. No solo «más cercana»: más comprensible y más humana al mismo tiempo.»
 
-#### → Slide 18 · Cartel electoral (≈ 50 s)
+#### → Slide 21 · Cartel electoral (≈ 50 s)
 
 «Estas propuestas se materializan, primero, en el cartel electoral.
 
@@ -186,7 +202,7 @@ A la izquierda tenéis nuestra reconstrucción del cartel actual: «Vota sanidad
 
 A la derecha, nuestra propuesta de mejora. Foto humana en mitin real, Montero aplaudiendo con la militancia y las banderas de Andalucía detrás. El mensaje en segunda persona —**«La Andalucía que mereces»**— habla directamente al votante en lugar de pedirle algo. Mantenemos el sistema visual verde-blanco coherente con la marca actual, y abajo se conserva el eslogan **«Defiende lo público»** como cierre. La pieza es más cálida, más territorial y más emocional que el cartel original.»
 
-#### → Slide 19 · Publicidad para redes sociales (≈ 1 min)
+#### → Slide 22 · Publicidad para redes sociales (≈ 1 min)
 
 «Y, de forma más amplia, en redes sociales. Aquí proponemos **tres formatos para tres canales**, cada uno con su tono y su métrica.
 
@@ -198,7 +214,7 @@ Y en **X**, hilos diarios con tono documental, no épico. El ejemplo de la derec
 
 Es la traducción operativa de la Propuesta 4 que veíamos hace un momento: bajar el lenguaje institucional, generar conexión emocional y trabajar la memoria política.»
 
-#### → Slide 20 · Referencias y cierre (≈ 40 s)
+#### → Slide 23 · Referencias y cierre (≈ 40 s)
 
 «Para cerrar: el trabajo se apoya en fuentes institucionales —el preelectoral 3558 del CIS, los estudios postelectorales de 2022, el Barómetro Sanitario del Ministerio, el Barómetro andaluz del CENTRA—, en cuatro encuestas privadas recientes y en cobertura de prensa nacional y andaluza. Las imágenes de mítines son del Flickr oficial del PSOE, con licencia Creative Commons.
 
@@ -215,8 +231,8 @@ Muchas gracias.»
 | Apertura y candidata | Socorro | 1–5 | ≈ 3 min |
 | Datos demoscópicos | Lucas | 6–9 | ≈ 3,5 min |
 | Temas, objetivos, público | Karelyn | 10–12 | ≈ 3 min |
-| Estrategias I-II, identidad, propuestas, cartel, RRSS, cierre | Alice | 13–20 | ≈ 5 min |
-| **Total** | | **20 slides** | **≈ 14,5 min** |
+| Estrategias (5 slides), identidad, propuestas, cartel, RRSS, cierre | Alice | 13–23 | ≈ 6 min |
+| **Total** | | **23 slides** | **≈ 16 min** |
 
 ## Consejos finales para la exposición
 

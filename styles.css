@@ -1240,7 +1240,96 @@ body::before {
 }
 
 /* =============================================================
-   SLIDES 13-14 — ESTRATEGIAS Y TIPOLOGÍAS DE CAMPAÑA
+   SLIDES 13-16 — ESTRATEGIAS DETALLE (1 estrategia por slide)
+   ============================================================= */
+.slide-strat-detail {
+  padding: var(--slide-pad-y) var(--slide-pad-x);
+}
+.strat-detail-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  height: 100%;
+  padding-top: 48px;
+  align-items: stretch;
+}
+.strat-detail-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-right: 8px;
+}
+.strat-detail-text p {
+  font-family: var(--f-sans);
+  font-size: 14.5px;
+  line-height: 1.6;
+  color: rgba(244, 239, 226, 0.85);
+  margin-bottom: 12px;
+  max-width: 60ch;
+}
+.strat-detail-text .lede {
+  font-family: var(--f-serif);
+  font-size: 19px;
+  line-height: 1.45;
+  color: var(--paper);
+  margin-bottom: 14px;
+}
+.strat-cite {
+  margin-top: 12px;
+  font-family: var(--f-mono);
+  font-size: 10.5px !important;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(244, 239, 226, 0.55) !important;
+  padding-top: 12px;
+  border-top: 1px solid var(--rule);
+}
+
+.strat-detail-shots {
+  display: grid;
+  gap: 18px;
+  align-content: center;
+  height: 100%;
+  padding: 8px 0;
+}
+.strat-detail-shots-1 { grid-template-columns: 1fr; justify-content: center; }
+.strat-detail-shots-2 { grid-template-columns: 1fr 1fr; }
+
+.strat-shot {
+  background: var(--ink-2);
+  border: 1px solid var(--rule-strong);
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-height: 84vh;
+  overflow: hidden;
+  box-shadow: 0 12px 28px rgba(0,0,0,0.45);
+}
+.strat-shot img {
+  max-width: 100%;
+  max-height: 78vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+.strat-detail-shots-1 .strat-shot {
+  margin: 0 auto;
+  max-width: 380px;
+}
+
+@media (max-width: 1100px) {
+  .strat-detail-grid { grid-template-columns: 1fr; gap: 30px; padding-top: 30px; }
+  .strat-detail-shots-2 { grid-template-columns: 1fr 1fr; }
+  .strat-shot img { max-height: 50vh; }
+}
+@media (max-width: 700px) {
+  .strat-detail-shots-2 { grid-template-columns: 1fr; }
+}
+
+/* =============================================================
+   ESTILOS LEGACY DE STRAT-CARD (mantenemos por si los re-uso)
    ============================================================= */
 .strategy-grid {
   display: grid;
