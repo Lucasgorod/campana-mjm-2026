@@ -19,7 +19,7 @@ La idea del trabajo no es vender la candidatura: es analizarla con los datos sob
 
 #### → Slide 2 · Índice (≈ 20 s)
 
-«Estructuramos la presentación en ocho bloques, que más o menos seguís en pantalla: partido y candidato, contexto de campaña, concepto y estrategia, objetivos, público objetivo, identidad visual, propuestas de mejora con cartel y redes, y referencias.»
+«Estructuramos la presentación en once bloques que veis en pantalla: partido y candidato, datos de campaña con previsiones, temas y prioridades, objetivos, público objetivo, las seis estrategias o tipologías de campaña, identidad visual, propuestas de mejora, cartel electoral, publicidad para redes sociales y referencias. En total, **23 slides**, repartidos entre los cuatro.»
 
 #### → Slide 3 · Contextualización (≈ 40 s)
 
