@@ -198,9 +198,9 @@ Y la séptima: giro comunicativo a la cercanía y la claridad. Frases más corta
 
 «Estas propuestas se materializan, primero, en el cartel electoral.
 
-A la izquierda tenéis nuestra reconstrucción del cartel actual: «Vota sanidad pública», retrato institucional sobre fondo verde. Funciona, pero es frío y unidimensional: una foto de gabinete, una sola idea y poco vínculo con el territorio.
+A la izquierda tenéis el cartel original que está circulando por la campaña: **«Vota sanidad pública»** sobre fondo verde, con Montero sonriente en blazer verde y el logo del PSOE-A abajo. Mensaje claro y monotemático, pero retrato más institucional que humano: identifica al partido, pero no narra el proyecto ni vincula a la candidata con el territorio andaluz.
 
-A la derecha, nuestra propuesta de mejora. Foto humana en mitin real, Montero aplaudiendo con la militancia y las banderas de Andalucía detrás. El mensaje en segunda persona —**«La Andalucía que mereces»**— habla directamente al votante en lugar de pedirle algo. Mantenemos el sistema visual verde-blanco coherente con la marca actual, y abajo se conserva el eslogan **«Defiende lo público»** como cierre. La pieza es más cálida, más territorial y más emocional que el cartel original.»
+A la derecha, nuestra propuesta de mejora. Foto humana en mitin real: Montero aplaudiendo con la militancia y las banderas de Andalucía detrás. El mensaje en segunda persona —**«La Andalucía que mereces»**— habla directamente al votante en lugar de pedirle algo. Mantenemos el sistema visual verde-blanco coherente con la marca actual, y abajo se conserva el eslogan **«Defiende lo público»** como cierre. La pieza es más cálida, más territorial y más emocional que el cartel original.»
 
 #### → Slide 22 · Publicidad para redes sociales (≈ 1 min)
 
